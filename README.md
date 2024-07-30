@@ -12,7 +12,7 @@ Data Storage: Saves scraped data into structured CSV files.
 - selenium
 - BeautifulSoup4
 - pandas
-- ChromeDriver (compatible with your Chrome browser version)
+- ChromeDriver
 
 ## Output
 The script will create a directory named rezultati and save the scraped data into CSV files within subdirectories named after the city and year.
