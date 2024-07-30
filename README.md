@@ -2,12 +2,12 @@
 This Python script scrapes real estate price statistics from the imovina.net website. It collects data on various property types across different cities and years, saving the information into CSV files.
 
 ## Features
-Web Scraping: Utilizes requests and BeautifulSoup to parse HTML and extract data.
+Web Scraping: Utilizes BeautifulSoup to parse HTML and extract data.
 Browser Automation: Employs selenium for handling dynamic content and dropdown selections.
 Data Storage: Saves scraped data into structured CSV files.
 
 ## Requirements
-- Python 3.x
+- Python 3.11
 - requests
 - selenium
 - BeautifulSoup4
